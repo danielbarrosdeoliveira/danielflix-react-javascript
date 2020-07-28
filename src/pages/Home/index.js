@@ -1,11 +1,11 @@
 import React from 'react';
-import Menu from './components/Menu';
-import BannerMain from './components/BannerMain';
-import Carousel from './components/Carousel';
-import Footer from './components/Footer';
-import bancoDeDados from './data/database.json';
+import Menu from '../../components/Menu';
+import BannerMain from '../../components/BannerMain';
+import Carousel from '../../components/Carousel';
+import Footer from '../../components/Footer';
+import bancoDeDados from '../../data/database.json';
 
-function App() {
+const Home = () => {
   return (
     <>
       <Menu />
@@ -20,6 +20,6 @@ function App() {
       <Footer />
     </>
   );
-}
+};
 
-export default App;
+export default Home;
