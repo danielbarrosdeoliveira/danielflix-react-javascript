@@ -1,6 +1,6 @@
 * {
   box-sizing: border-box;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
 }
 
 :root {
@@ -16,6 +16,7 @@
 
 html,
 body {
+  background-color: #141414;
   margin: 0;
   padding: 0;
 }

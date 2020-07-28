@@ -1,0 +1,138 @@
+{
+  "categorias": [
+    {
+      "titulo": "Guitarristas",
+      "cor": "#D91E41",
+      "videos": [
+        {
+          "titulo": "Guns n Roses - Sweet Child o Mine",
+          "url": "https://www.youtube.com/watch?v=t_FraYOWrr8"
+        },
+        {
+          "titulo": "One Winged Angel - Nobuo Uematsu - Final Fantasy VII - Final Fantasy- Evandro Matté - De Ros",
+          "url": "https://www.youtube.com/watch?v=Huk3MYUge1Q"
+        },
+        {
+          "titulo": "10 Solos Incríveis Guitarra Elétrica Vol 2 - Fabio Lima",
+          "url": "https://www.youtube.com/watch?v=ZL8QPBSkrn4"
+        },
+        {
+          "titulo": "Coffin Dance Meme On ELETRIC GUITAR Astronomia - Tony Ygy",
+          "url": "https://www.youtube.com/watch?v=U7aThWReojs"
+        },
+        {
+          "titulo": "Steve Vai - Candle Power",
+          "url": "https://www.youtube.com/watch?v=y4LPgZYbCDg"
+        },
+        {
+          "titulo": "8 Motivos que te fará comprar o BAATSIN",
+          "url": "https://www.youtube.com/watch?v=MSPYAql1P0s"
+        }
+      ]
+    },
+    {
+      "titulo": "Séries",
+      "cor": "#0367A6",
+      "videos": [
+        {
+          "titulo": "Prison Break",
+          "url": "https://www.youtube.com/watch?v=C2ssQOyVJqQ"
+        },
+        {
+          "titulo": "Breaking Bad",
+          "url": "https://www.youtube.com/watch?v=lrcqbavlbyQ"
+        },
+        {
+          "titulo": "Sobrenatural",
+          "url": "https://www.youtube.com/watch?v=Q-ejz2RmueE"
+        },
+        {
+          "titulo": "BoJack Horseman",
+          "url": "https://www.youtube.com/watch?v=i1eJMig5Ik4"
+        },
+        {
+          "titulo": "Peaky Blinders",
+          "url": "https://www.youtube.com/watch?v=Ruyl8_PT_y8"
+        }
+      ]
+    },
+    {
+      "titulo": "Filmes",
+      "cor": "#5DA676",
+      "videos": [
+        {
+          "titulo": "O Som do Coração",
+          "url": "https://www.youtube.com/watch?v=44nN72E5JDg"
+        },
+        {
+          "titulo": "Whiplash – Em Busca da Perfeição",
+          "url": "https://www.youtube.com/watch?v=iTgk3WbTErk"
+        },
+        {
+          "titulo": "Mesmo Se Nada Der Certo",
+          "url": "https://www.youtube.com/watch?v=qep22C9CBJQ"
+        },
+        {
+          "titulo": "Drumline - Ritmo Total",
+          "url": "https://www.youtube.com/watch?v=3J_LqCnPvgI"
+        },
+        {
+          "titulo": "Desafiando Gigantes",
+          "url": "https://www.youtube.com/watch?v=D-k1QW0bS5o"
+        }
+      ]
+    },
+    {
+      "titulo": "Desenvolvimento",
+      "cor": "#F28705",
+      "videos": [
+        {
+          "titulo": "Criando Comandos - Bot com Discord.js",
+          "url": "https://www.youtube.com/watch?v=2apXbmTyJ7o"
+        },
+        {
+          "titulo": "HTML5 e CSS3 na Prática - #92 Validando HTML",
+          "url": "https://www.youtube.com/watch?v=cWFZEnhdLJU"
+        },
+        {
+          "titulo": "Componentização com VanillaJS",
+          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+        },
+        {
+          "titulo": "Mais 10 Youtubers Brasileiros que falam de Programação",
+          "url": "https://www.youtube.com/watch?v=yueHW0hr5nQ"
+        },
+        {
+          "titulo": "Introdução a Algoritmos - Curso de Algoritmos #01 - Gustavo Guanabara",
+          "url": "https://www.youtube.com/watch?v=8mei6uVttho"
+        }
+      ]
+    },
+    {
+      "titulo": "Tecnologia",
+      "cor": "#F23322",
+      "videos": [
+        {
+          "titulo": "Este Linux é mais Windows que o próprio Windows",
+          "url": "https://www.youtube.com/watch?v=kkOVR5bfdiM"
+        },
+        {
+          "titulo": "7 ótimos fones Bluetooth por menos de R$ 300",
+          "url": "https://www.youtube.com/watch?v=yL2OcymaHzs"
+        },
+        {
+          "titulo": "Wi-Fi grátis? Saiba que o que nunca deve fazer em uma rede pública",
+          "url": "https://www.youtube.com/watch?v=fQioAwb0ags"
+        },
+        {
+          "titulo": "Nosso PRIMEIRO HACKINTOSH! ( e o que aprendemos com ele )",
+          "url": "https://www.youtube.com/watch?v=kx2Umnmh5jY"
+        },
+        {
+          "titulo": "Explorando o PRIMEIRO WINDOWS!",
+          "url": "https://www.youtube.com/watch?v=o9iTxJaejH0"
+        }
+      ]
+    }
+  ]
+}
