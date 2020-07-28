@@ -10,9 +10,9 @@ function App() {
     <>
       <Menu />
       <BannerMain
-        url="https://www.youtube.com/watch?v=-oYMo8k22Vw"
-        videoDescription='É uma música no estilo de RAP, criado pelo pessoal do 7 minutoz, para o público Otaku, que conta um pouco dos membros da Akatsuki, uma "gang" de vilões, que planejam a dominação mundial, coletando as 9 bijuus (demônios de cauda)'
-        videoTitle="CONTÉM SPOILER - Rap Akatsuki"
+        url="https://youtu.be/ObQMysW58NA"
+        videoDescription="É uma música no estilo de RAP, criado pelo pessoal do 7 minutoz para o público Otaku, conta um pouco sobre Naruto, protagonista do anime Naruto, que cresceu sem pai e sem mãe, sob olhares de pessoas que o julgavam por ter um demônio selado, que atacou aldeia onde morava, mas isso não o impediu se seguir seus sonhos."
+        videoTitle="Naruto - O Sétimo Hokage"
       />
       {bancoDeDados.categorias.map((categoria, index) => (
         <Carousel key={index} ignoreFirstVideo category={categoria} />
