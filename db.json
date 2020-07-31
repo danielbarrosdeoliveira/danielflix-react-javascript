@@ -1,0 +1,34 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Guitarristas",
+      "descricao": "Guitarristas que curto no YouTube",
+      "cor": "#D91E41"
+    },
+    {
+      "id": 2,
+      "nome": "Séries",
+      "descricao": "Séries que curto",
+      "cor": "#0367A6"
+    },
+    {
+      "id": 3,
+      "nome": "Filmes",
+      "descricao": "Filmes que curto",
+      "cor": "#5DA676"
+    },
+    {
+      "id": 4,
+      "nome": "Desenvolvimento",
+      "descricao": "Canais sobre dev que curto",
+      "cor": "#F28705"
+    },
+    {
+      "id": 5,
+      "nome": "Tecnologia",
+      "descricao": "Canais sobre tecnologia que curto",
+      "cor": "#F23322"
+    }
+  ]
+}
